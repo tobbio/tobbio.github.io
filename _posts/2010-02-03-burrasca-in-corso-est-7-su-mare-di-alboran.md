@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Burrasca in corso, est, 7, su mare di Alboran"
 
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Mini videocamera DV001 (MD-80 clone)"
 
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Da Fabbrica Curone a Selvapiana
 subheadline: Si riparte!
 

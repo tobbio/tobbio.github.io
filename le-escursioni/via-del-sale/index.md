@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Via del sale - da Montalto Pavese a Portofino"
 tags: 
   - escursioni

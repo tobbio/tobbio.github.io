@@ -1,6 +1,6 @@
 ---
 published: true
-layout: page
+layout: article
 title: Da Busalla a Pegli
 
 categories: 

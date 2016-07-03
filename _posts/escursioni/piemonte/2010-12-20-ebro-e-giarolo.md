@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Ebro e Giarolo
 subheadline: Piacevolissima
 

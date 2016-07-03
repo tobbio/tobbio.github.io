@@ -1,6 +1,6 @@
 ---
 published: true
-layout: page
+layout: article
 title: Monte Reixa e dintorni
 
 categories: 

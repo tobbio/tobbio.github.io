@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Esce Wordpress, entra Jekyll"
 subheadline: Sito
 teaser: "Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?"
