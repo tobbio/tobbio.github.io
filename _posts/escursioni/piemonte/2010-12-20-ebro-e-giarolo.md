@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Ebro e Giarolo
-subheadline: Piacevolissima
+description: "Una bella giornata -non meteorologicamente parlando- invernale sul crinale tra val Curone e val Borbera."
 
 categories:
   - escursioni
@@ -10,7 +10,8 @@ tags:
   - appennino
   - Piemonte
   - val Curone
-teaser: "Una bella giornata -non meteorologicamente parlando- invernale sul crinale tra val Curone e val Borbera."
+
+teaser: monte-tobbio-dal-panà.jpg
 image: 
   title: ebro-crinale.jpg
   caption: "Il crinale verso il Giarolo (antenne), dal monte Ebro."
