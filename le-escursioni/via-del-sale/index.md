@@ -23,4 +23,47 @@ Cerchi informazioni su questa via del sale o comunque sei interessato? [Scrivimi
 
 Anni fa ho digitalizzato (malamente) tutto l’articolo, eccolo qui sotto.
 
-<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=it-it&page_show_url=%2Fphotos%2Fshineon-it%2Fsets%2F72157639799908133%2Fshow%2F&page_show_back_url=%2Fphotos%2Fshineon-it%2Fsets%2F72157639799908133%2F&set_id=72157639799908133&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=it-it&page_show_url=%2Fphotos%2Fshineon-it%2Fsets%2F72157639799908133%2Fshow%2F&page_show_back_url=%2Fphotos%2Fshineon-it%2Fsets%2F72157639799908133%2F&set_id=72157639799908133&jump_to=" width="700" height="525"></embed></object>
+<ul class="th-grid">
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7393/11965208666_ebac0fe43e_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm3.staticflickr.com/2869/11964372415_3d157fb482_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7409/11965207946_7436ba3220_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7398/11964658543_afbb64585f_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm3.staticflickr.com/2845/11965206876_61de87a91f_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7340/11965206336_081d5f2d6c_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm6.staticflickr.com/5531/11964802334_1af1bc4e71_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm6.staticflickr.com/5532/11965205306_84f545a6a4_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm4.staticflickr.com/3685/11964660203_0bcbd2cc28_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7409/11964659873_2409510056_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm8.staticflickr.com/7362/11964364025_68b071ca1a_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm4.staticflickr.com/3787/11964362475_14cf7ee138_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm6.staticflickr.com/5550/11964658373_d2a45e1d51_b.jpg" alt=""></a>
+  </li>
+  <li>
+    <a href="#"><img src="https://farm4.staticflickr.com/3672/11965196136_dfd5b50943_b.jpg" alt=""></a>
+  </li>
+</ul>
