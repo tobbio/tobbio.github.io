@@ -11,7 +11,8 @@ tags:
   - Piemonte
   - val Curone
 
-teaser: monte-tobbio-dal-panà.jpg
+image:
+	teaser: monte-tobbio-dal-panà.jpg
 
 published: true
 ---
