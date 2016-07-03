@@ -31,3 +31,15 @@ locales:
   # -------------------
   fr_FR:
     <<: *DEFAULT_EN      # load English values as default
+
+  # German translation
+  # -------------------
+  it: &DEFAULT_IT
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "Overview"
+    toc: "Contenuti"
+    written_by: "Scritto da"
+    updated: "Modificato:"
+    share: "Condividi"
+  it_IT:
+    <<: *DEFAULT_IT     # use German translation for de_DE

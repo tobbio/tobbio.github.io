@@ -1,21 +1,13 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
+- title: Chi sono
+  url: /chi-sono/
+  excerpt: "33 anni, San Salvatore Monferrato"
+  image: federico.jpg
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+- title: Escursioni
+  url: /le-escursioni/
+  excerpt: "Le mie escursioni"
+  image: escursioni.jpg
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
-
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+#  image: 400x250.gif
