@@ -3,6 +3,7 @@ layout: archive
 permalink: /
 image:
   feature: panorama-antola.jpg
+  credit: Panorama dal m. Antola
 ---
 
 <div class="tiles">
