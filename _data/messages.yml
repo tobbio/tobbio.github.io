@@ -40,6 +40,6 @@ locales:
     toc: "Contenuti"
     written_by: "Scritto da"
     updated: "Modificato:"
-    share: "Condividi"
+    share: "Condividi su"
   it_IT:
     <<: *DEFAULT_IT     # use German translation for de_DE
