@@ -12,7 +12,7 @@ tags:
   - val Curone
 
 image:
-	teaser: monte-tobbio-dal-panà.jpg
+  teaser: monte-tobbio-dal-panà.jpg
 
 published: true
 ---
