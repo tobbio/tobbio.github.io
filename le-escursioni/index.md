@@ -10,6 +10,7 @@ share: false
 header: 
   
   image_fullwidth: panorama-pana.jpg
+permalink: /escursioni/
 published: true
 ---
 
