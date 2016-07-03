@@ -13,9 +13,6 @@ tags:
 
 image:
   teaser: teaser/monte-tobbio-dal-panà.jpg
-  featured: panorama-dal-panà.jpg
-  credit: Panorama dal monte Panà
-published: true
 ---
 Martedì mattina sveglia ore 5: destinazione monte Ebro. Salto in macchina alle sei meno un quarto, sia per le poche ore di luce, sia perchè non voglio restare intasato in tangenziale, e per le 8.15 parcheggio a Caldirola, frazione di Fabbrica Curone. Siamo in provincia di Alessandria, in fondo alla val Curone, quasi al confine con la Liguria.
 
