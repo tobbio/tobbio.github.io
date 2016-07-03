@@ -30,13 +30,11 @@ L'appennino mi ha sempre affascinato di più. Qui sotto trovate i miei due sogni
 Ecco le ultime escursioni, in ordine di regione:
 
 ##### PIEMONTE
-{% for post in site.categories.piemonte %}
+{% for post in site.categories.Piemonte %}
 <li><time class="icon-calendar pr20" datetime="{{ post.date | date: "%d-%m-%Y" }}" itemprop="datePublished"> {{ post.date | date: "%d-%m-%Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
-
-<iframe src="http://maps.google.it/maps/ms?msa=0&amp;msid=203838580252362177836.0004a1bd61b62dd28e348&amp;ie=UTF8&amp;t=k&amp;source=embed&amp;vpsrc=6&amp;ll=45.598666,9.942627&amp;spn=3.689745,7.020264&amp;z=7&amp;output=embed" width="640" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-<small>Visualizza la mia <a style="color: #0000ff; text-align: left;" href="http://maps.google.it/maps/ms?msa=0&amp;msid=203838580252362177836.0004a1bd61b62dd28e348&amp;ie=UTF8&amp;t=k&amp;source=embed&amp;vpsrc=6&amp;ll=45.598666,9.942627&amp;spn=3.689745,7.020264&amp;z=7">mappa</a> in dimensioni maggiori</small>
-
-Mappa con le mie ultime escursioni. Cliccare sulle bandierine per i dettagli.
+##### LIGURIA
+{% for post in site.categories.Liguria %}
+<li><time class="icon-calendar pr20" datetime="{{ post.date | date: "%d-%m-%Y" }}" itemprop="datePublished"> {{ post.date | date: "%d-%m-%Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
