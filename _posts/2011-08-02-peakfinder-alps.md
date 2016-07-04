@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "PeakFinder Alps"
-categories: Android
+categories: android
 excerpt: "Un'utilissima app per tutti gli escursionisti."
 tags: [escursionismo, montagne, app]
 image:

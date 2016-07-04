@@ -2,7 +2,7 @@
 layout: article
 title: "Esce Wordpress, entra Jekyll"
 excerpt: "Shineon.it: da Wordpress a Jekyyl. Cosa è cambiato?"
-categories: Shineon.it
+categories: sito
 
 tags:
   - sito
