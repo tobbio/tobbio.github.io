@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Mastering Paper by 53: Screen Capture Techniques and Animation"
+title: ""
 modified:
-categories: mastering-paper
-excerpt: "Workflows for recording time lapse videos of Paper creations without jailbreaking an iPad."
-tags: [Paper by 53, tutorial, drawing, painting, iPad]
+categories: 
+excerpt: ""
+tags: []
 image:
   feature:
   teaser:
