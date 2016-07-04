@@ -1,26 +1,14 @@
 ---
-published: true
 layout: article
-title: Da Busalla a Pegli
-
-categories: 
-  - Escursioni
-  - Liguria
-subheadline: Gran fatica...
-teaser: "Cronaca di una traversata abortita."
-tags: 
-  - monte Leco
-  - monte Taccone
-  - Parco Capanne di Marcarolo
-header:
-  image_fullwidth: "panorama-pana.jpg"
+title: "Da Busalla a Pegli"
+teaser: "Traversata da Busalla a Pegli: cronaca di una traversata abortita."
+categories: Escursioni, Liguria
+tags: [monte Leco, monte Taccone, Parco Capanne di Marcarolo, Busalla, Pegli]
 image:
-     thumb: sella-leco_thumb.jpg
-     title: sella-leco.jpg
-     caption: Segnavia notturni sulla sella tra Leco e Taccone
+  teaser: teaser/sella-leco.jpg
 ---
 
-Come NON avevo preannunciato giovedì sono partito con l’idea di farmi la traversata appenninica da Busalla a Pegli: primo giorno da Busalla alle Figne, pernottamento in tenda e il giorno dopo proseguimento fino a Pegli (a meno di un altro eventuale pernottamento nei pressi del Penello/Punta Martin).
+Come NON avevo preannunciato giovedì sono partito con l’idea di fare la traversata appenninica da Busalla a Pegli: primo giorno da Busalla al monte delle Figne, pernottamento in tenda e il giorno dopo proseguimento fino a Pegli (a meno di un altro eventuale pernottamento nei pressi del Penello/Punta Martin).
 
 Appunto, con l’idea.
 
@@ -33,8 +21,8 @@ Arrivo al passo della Bocchetta alle sei meno venti, proseguo lungo la tappa 23 
 Ci arrivo che sono quasi le sette e mezza, al monte delle Figne manca ancora troppo, sono ancora alle pendici del Taccone: giù lo zaino, giretto d’ispezione… ok, mi fermo.
 
 Scatto qualche foto, monto la tenda con la discreta compagnia della radio a basso volume, preparo il risotto e per le undici sono nell’ordine di idee di dormire.
-Ci provo. Non fa affatto freddo, ci sono sei gradi, però non dormo bene, mi sveglierò diverse volte.
-Alle tre, il terremoto?! Trema tutto, probabilmente un cavallo che ha voglia di farsi una corsetta, ho visto diversi ricordini, in zona.
+Ci provo. Non fa affatto freddo, ci sono sei gradi, però non dormo bene, mi sveglio diverse volte.
+Alle tre, il terremoto?! Probabilmente uno di quei cavalli semibradi che girano qui attorno ha voluto farsi una sgambata.
 
 Verso le sei e mezza mi vesto, esco dalla tenda, ancora qualche foto, inauguro la mia nuova mini-moka, colazione, e per le otto è tutto smontato e pronto per ripartire.
 Ho deciso di rientrare alla macchina, a Busalla: questo zaino mi sta massacrando, non è il caso di proseguire.

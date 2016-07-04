@@ -1,20 +1,11 @@
 ---
 layout: article
 title: "Burrasca in corso, est, 7, su mare di Alboran"
-
-categories: 
-  - Pensieri
-tags: 
-  - bollettino meteo
-  - mare
-  - Radiorai
-subheadline: Nostalgie
-teaser: "Radio, escursioni e ricordi."
-image: 
-  thumb: "tobbio-nebbia_thumb.jpg"
-  title: "tobbio-nebbia.jpg"
-  caption: "Sul monte Tobbio, tra le nuvole, poco dopo aver smontato la tenda."
-published: true
+categories: Pensieri
+tags: [bollettino meteo, mare, Radiorai, Tobbio]
+excerpt: "Radio, escursioni e ricordi."
+image:
+  teaser: teaser/monte-tobbio-nebbia.jpg
 ---
 Sì, si parla di mare, ma anche di montagna.
 
