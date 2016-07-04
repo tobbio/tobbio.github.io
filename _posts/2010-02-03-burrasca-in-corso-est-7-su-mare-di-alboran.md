@@ -20,4 +20,4 @@ Lo scorso ottobre mi è capitato casualmente di risentirlo, su RadioUno, alle se
 Preso da una botta di nostalgia stamattina l'ho voluto registrare.
 Nella foto del video, Cap Corse, agosto 2008, una mezzora dopo aver lasciato il porto di Bastia, mentre tornavo a casa.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Cu9aJ0ZdWj8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Cu9aJ0ZdWj8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
