@@ -1,23 +1,20 @@
 ---
 layout: article
 title: "Esce Wordpress, entra Jekyll"
-excerpt: 'Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?'
-categories:
-  - News
+excerpt: "Shineon.it: da Wordpress a Jekyyl. Cosa è cambiato?"
+categories: Shineon.it
+
 tags:
-  - Sito
+  - sito
   - blog
   - Jekyll
   - Wordpress
 
 date: '2016-01-27'
+
 image:
   teaser: teaser/logo-jekyll.jpg
-comments: true
 ---
-
-
-
 Da un po' di tempo andavo pensandoci:  
 WordPress è un gran bel CMS, molto potente e flessibile, probabilmente eccessivo per queste poche pagine che mi ritrovo, passiamo a qualcosa di più performante e snello, magari anche senza database.
 
