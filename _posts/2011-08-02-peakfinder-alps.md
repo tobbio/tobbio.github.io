@@ -4,16 +4,15 @@ title:  "PeakFinder Alps"
 
 categories:
     - Android
-subheadline: App
-teaser: "Un'utilissima app per tutti gli escursionisti."
+excerpt: "Un'utilissima app per tutti gli escursionisti."
 tags:
     - escursionismo
     - montagne
+    - app
 image:
     thumb: peakfinder-alps_thumb.jpg
 header:
   image_fullwidth: "panorama-pana.jpg"
-published: true
 ---
 
 PeakFinder Alps mostra da qualsiasi posizione il panorama a 360° con i nomi delle montagne più famose.
