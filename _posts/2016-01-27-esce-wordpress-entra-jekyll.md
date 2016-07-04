@@ -11,14 +11,8 @@ tags:
   - Wordpress
 
 date: '2016-01-27'
-header:
-  image_fullwidth: panorama-pana.jpg
-  teaser: teaser/logo-jekyll.jpg
 image:
-  caption: null
-  caption_url: null
-  thumb: jekyll-logo.png
-  title: jekyll-logo.png
+  teaser: teaser/logo-jekyll.jpg
 comments: true
 ---
 
