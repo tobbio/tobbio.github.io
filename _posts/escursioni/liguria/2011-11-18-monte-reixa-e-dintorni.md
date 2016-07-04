@@ -2,7 +2,7 @@
 layout: article
 title: "Monte Reixa e dintorni"
 
-categories: Escursioni, Liguria
+categories: [escursioni, Liguria]
 excerpt: "Dal passo del Faiallo fino al monte Argentéa, pernottando in bivacco."
 tags: [monte Reixa, monte Argentea, passo del Faiallo]
 image:

@@ -2,7 +2,7 @@
 layout: article
 title: "Da Busalla a Pegli"
 teaser: "Traversata da Busalla a Pegli: cronaca di una traversata abortita."
-categories: [Escursioni, Liguria]
+categories: [escursioni, Liguria]
 tags: [monte Leco, monte Taccone, Parco Capanne di Marcarolo, Busalla, Pegli]
 image:
   teaser: teaser/sella-leco.jpg

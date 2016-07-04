@@ -3,7 +3,7 @@ layout: article
 title: Ebro e Giarolo
 excerpt: "Una bella giornata -non meteorologicamente parlando- invernale sul crinale tra val Curone e val Borbera."
 
-categories: escursioni, Piemonte
+categories: [escursioni, Piemonte]
 tags: [appennino, val Curone, val Borbera, Ebro, Giarolo]
 
 image:
