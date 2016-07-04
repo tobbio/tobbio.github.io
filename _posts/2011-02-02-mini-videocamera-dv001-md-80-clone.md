@@ -8,7 +8,8 @@ tags:
   - DV001
   - "MD-80"
   - microcamera
-teaser: "Mini recensione della microcamera DV001, clone (migliore?) della MD-80"
+
+excerpt: "Mini recensione della microcamera DV001, clone migliorato della MD-80"
 image: 
   thumb: "microcamera-dv001_thumb.jpg"
 ---
@@ -29,6 +30,7 @@ La qualità delle immagini tutto sommato non è malvagia, decisamente migliore i
 Nella confezione ho trovato cavo usb, caricatore da auto e da casa, micro-sd da 2 gb, supporti vari (clip, supporto magnetico, staffa utilizzabile con viti), custodietta in silicone, laccetto da collo.
 
 Lati negativi:
+
 - ~~Purtroppo non è possibile utilizzarla in registrazione mentre è in ricarica, ed è un grosso peccato.~~  
 
 - Registra in AVI non compresso, più o meno per 40 minuti di registrazione serve 1 giga (a seconda delle condizioni di inquadratura) ma tutto sommato una scheda da 8 gb costa ormai poco.
