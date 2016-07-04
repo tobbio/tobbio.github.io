@@ -1,25 +1,12 @@
 ---
-published: true
 layout: article
-title: Monte Reixa e dintorni
+title: "Monte Reixa e dintorni"
 
-categories: 
-  - Escursioni
-  - Liguria
-subheadline: Gran freddo!
-teaser: "Dal passo del Faiallo fino al monte Argentéa, pernottando in bivacco."
-tags: 
-  - monte Reixa
-  - monte Argentea
-  - passo del Faiallo
-  
-header:
-  image_fullwidth: "panorama-pana.jpg"
-
+categories: Escursioni, Liguria
+excerpt: "Dal passo del Faiallo fino al monte Argentéa, pernottando in bivacco."
+tags: [monte Reixa, monte Argentea, passo del Faiallo]
 image:
-     thumb: genova-alba_thumb.jpg
-     title: genova-alba.jpg
-     caption: Genova, dal monte Argentéa, all'alba.
+  teaser: teaser/genova-alba-da-argentea.jpg
 ---
 
 L’altro ieri sono andato (finalmente, direte voi!) in una zona **nuova**: quella compresa tra il passo del Faiallo, il monte Reixa e il Beigua, nel parco regionale omonimo.
