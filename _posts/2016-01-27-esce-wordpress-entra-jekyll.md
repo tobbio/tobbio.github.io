@@ -67,4 +67,4 @@ Comodo, no? Hosting praticamente a costo zero, potete configurare i DNS del vost
 
 Postare in mobilità? Per Android esiste l'ottima app [*MrHyde*](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde), che fa sia il lavoro di un editor sia quello di un client GIT.  
 
-Dopo aver provato -diverse volte- parecchi temi, ho trovato in *Skinny Bones* quello che fa per me: qualche modifica qua e là  ed ecco che il mio nuovo blog inizia a prendere forma.
+Dopo aver provato -diverse volte- parecchi temi, ho trovato in *[Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll)* quello che fa per me: qualche modifica qua e là  ed ecco che il mio nuovo blog inizia a prendere forma.
