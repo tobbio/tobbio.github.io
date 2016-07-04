@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Mini videocamera DV001 (MD-80 clone)"
+title: "Mini videocamera DV001, MD-80 clone"
 
 categories: 
   - Tech
@@ -8,11 +8,9 @@ tags:
   - DV001
   - "MD-80"
   - microcamera
-subheadline: Recensione
 teaser: "Mini recensione della microcamera DV001, clone (migliore?) della MD-80"
 image: 
   thumb: "microcamera-dv001_thumb.jpg"
-published: true
 ---
 
 Tempo fa cercavo una piccola videocamera per fare riprese video durante qualche giro in macchina e trekking in montagna, non volevo spendere tanto visto che non mi interessava una qualità eccelsa.
@@ -31,10 +29,11 @@ La qualità delle immagini tutto sommato non è malvagia, decisamente migliore i
 Nella confezione ho trovato cavo usb, caricatore da auto e da casa, micro-sd da 2 gb, supporti vari (clip, supporto magnetico, staffa utilizzabile con viti), custodietta in silicone, laccetto da collo.
 
 Lati negativi:
--L’autonomia della batteria è indicata per un paio d’ore di registrazione, io ho testato un’ora e mezza effettiva, ma sono ancora alle prime prove.
-Purtroppo non è possibile utilizzarla in registrazione mentre è in ricarica, ed è un grosso peccato.
-Registra in AVI non compresso, più o meno per 40 minuti di registrazione serve 1 giga (a seconda delle condizioni di inquadratura) ma tutto sommato una scheda da 8 gb costa ormai poco.
-Nel video vengono inserite data e ora, in basso a destra, purtroppo non è una funzione disattivabile, ma tutto sommato si può ritagliare un attimo il video e si risolve.
+- ~~Purtroppo non è possibile utilizzarla in registrazione mentre è in ricarica, ed è un grosso peccato.~~  
+
+- Registra in AVI non compresso, più o meno per 40 minuti di registrazione serve 1 giga (a seconda delle condizioni di inquadratura) ma tutto sommato una scheda da 8 gb costa ormai poco.
+
+- ~~Nel video vengono inserite data e ora, in basso a destra, purtroppo non è una funzione disattivabile, ma tutto sommato si può ritagliare un attimo il video e si risolve.~~
 
 Premendo il tasto mode si attiva la funzione VOX: la videocamera inizia a registrare quando il microfono percepisce un rumore oltre i 65 decibel. Se invece è collegata al pc, entra in modalità webcam.
 
@@ -60,7 +59,7 @@ Questa recensione l’avevo scritta l’anno scorso, per un forum, ora ci sono u
 
 1) grazie a un ottimo tutorial trovato su MTB-Forum è possibile rimuovere definitivamente la fastidiosa sovraimpressione di data e ora, riflashando il firmware. In 10 minuti sono riuscito senza problemi.
 
-2) pare ci sia la possibilità di utilizzarla sfruttando l’alimentazione esterna USB: a dispositivo spento bisogna tenere premuto il tasto di registrazione, collegare il cavo e quando il led rosso non lampeggia più (rimane fisso solo quello blu), rilasciare il tasto. Ora è possibile premerlo nuovamente e far partire la registrazione.
+2) si può utilizzare sfruttando l’alimentazione esterna USB: a dispositivo spento bisogna tenere premuto il tasto di registrazione, collegare il cavo e quando il led rosso non lampeggia più (rimane fisso solo quello blu), rilasciare il tasto. Ora è possibile premerlo nuovamente e far partire la registrazione.
 
 Sembra che funzioni, sto testando per vedere se la registrazione in effetti prosegue o meno.
 
