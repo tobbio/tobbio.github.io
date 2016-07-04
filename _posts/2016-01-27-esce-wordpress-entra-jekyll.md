@@ -2,7 +2,7 @@
 layout: article
 title: "Esce Wordpress, entra Jekyll"
 subheadline: Sito
-teaser: "Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?"
+excerpt: "Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?"
 categories: 
   - News
 tags: 
