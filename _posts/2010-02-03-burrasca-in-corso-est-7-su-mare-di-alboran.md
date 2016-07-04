@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Burrasca in corso, est, 7, su mare di Alboran'
-categories: Pensieri
+categories: pensieri
 tags:
   - bollettino meteo
   - mare
