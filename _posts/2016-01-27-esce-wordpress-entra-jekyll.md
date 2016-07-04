@@ -13,7 +13,7 @@ image:
   title: jekyll-logo.png
 layout: article
 published: true
-sha: 37eb91c74363498178fe01a8afc96b3cb7bbcf17
+sha: 35f5a193034d5adcd59ec5e38d201a1d4158b2fe
 sidebar: right
 slug: esce-wordpress-entra-jekyll
 subheadline: Sito
@@ -58,7 +58,7 @@ D'accordo, non sarà come usare un editor WYSIWYG, ma una volta imparata la sint
 
 Infine basta eseguire ```jekyll build``` e voilà, delle belle paginette html pronte a essere caricate sul server.
 
-> Però aspetta, vuol dire che per usare Jekyll devo installare Ruby sul pc!
+> Però aspetta, vuol dire che per usare Jekyll devo installarmi Ruby!
 
 Non necessariamente, perchè ora entra in gioco **Github Pages**: hosting gratuito per pagine statiche (il PHP non è supportato) ma anche... Jekyll installato sui loro server: ergo per aggiornare il nostro blog basterà *pushare* il nostro file .md nella cartella **_posts** e automaticamente nel giro di pochi secondi sarà stato generato e pubblicato.  
 
