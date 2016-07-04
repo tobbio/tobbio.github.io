@@ -15,7 +15,7 @@ image:
 info: 
 layout: article
 published: true
-sha: 94c31cdc834947141f9dcf396ba8fbc490b10c9e
+sha: 94ced487ca3be3f89dd9808da12aaca35d29df1b
 sidebar: right
 slug: esce-wordpress-entra-jekyll
 subheadline: Sito
@@ -52,7 +52,8 @@ Qui però entra in gioco la mia voglia di complicarmi un pochino la vita...
 ### E Jekyll?!
 Così mi è venuto in mente *Jekyll*, il famoso generatore di siti statici scritto in *Ruby* che è alla base di *Github Pages*.
 
-> *Ruby*? Oddio, non saprei dove mettere le mani! :/  
+> *Ruby*? Oddio, non saprei dove mettere le mani! :/
+
 Calma, basta editare pochi file di configurazione, post e pagine si trovano su singoli file, scritti semplicemente in **Markdown**.  
 D'accordo, non sarà come usare un editor WYSIWYG, ma una volta imparata la sintassi, è comodissimo.  
 
