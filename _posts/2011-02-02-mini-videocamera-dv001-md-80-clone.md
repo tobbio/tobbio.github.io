@@ -32,9 +32,9 @@ Nella confezione ho trovato cavo usb, caricatore da auto e da casa, micro-sd da 
 
 Lati negativi:
 -L’autonomia della batteria è indicata per un paio d’ore di registrazione, io ho testato un’ora e mezza effettiva, ma sono ancora alle prime prove.
-–Purtroppo non è possibile utilizzarla in registrazione mentre è in ricarica, ed è un grosso peccato.
--Registra in AVI non compresso, più o meno per 40 minuti di registrazione serve 1 giga (a seconda delle condizioni di inquadratura) ma tutto sommato una scheda da 8 gb costa ormai poco.
-–Nel video vengono inserite data e ora, in basso a destra, purtroppo non è una funzione disattivabile, ma tutto sommato si può ritagliare un attimo il video e si risolve.
+Purtroppo non è possibile utilizzarla in registrazione mentre è in ricarica, ed è un grosso peccato.
+Registra in AVI non compresso, più o meno per 40 minuti di registrazione serve 1 giga (a seconda delle condizioni di inquadratura) ma tutto sommato una scheda da 8 gb costa ormai poco.
+Nel video vengono inserite data e ora, in basso a destra, purtroppo non è una funzione disattivabile, ma tutto sommato si può ritagliare un attimo il video e si risolve.
 
 Premendo il tasto mode si attiva la funzione VOX: la videocamera inizia a registrare quando il microfono percepisce un rumore oltre i 65 decibel. Se invece è collegata al pc, entra in modalità webcam.
 
