@@ -1,31 +1,25 @@
 ---
+layout: article
+title: "Esce Wordpress, entra Jekyll"
+excerpt: 'Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?'
 categories:
   - News
-comment: 
-comments: true
-date: '2016-01-27'
-excerpt: 'Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?'
-header:
-  image_fullwidth: panorama-pana.jpg
-image:
-  caption: null
-  caption_url: null
-  thumb: jekyll-logo.png
-  title: jekyll-logo.png
-info: 
-layout: article
-published: true
-sha: 94ced487ca3be3f89dd9808da12aaca35d29df1b
-sidebar: right
-slug: esce-wordpress-entra-jekyll
-subheadline: Sito
 tags:
   - Sito
   - blog
   - Jekyll
   - Wordpress
-title: 'Esce Wordpress, entra Jekyll'
 
+date: '2016-01-27'
+header:
+  image_fullwidth: panorama-pana.jpg
+  teaser: teaser/logo-jekyll.jpg
+image:
+  caption: null
+  caption_url: null
+  thumb: jekyll-logo.png
+  title: jekyll-logo.png
+comments: true
 ---
 
 
