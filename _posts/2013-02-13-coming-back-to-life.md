@@ -1,18 +1,12 @@
 ---
 layout: article
 title:  "Coming back to life"
-
-categories:
-    - News
-subheadline: Sito
-teaser: "No, nonostante il titolo per una volta i Pink Floyd non c'entrano: mi riferisco a questo blog."
+categories: News
+excerpt: "No, nonostante il titolo per una volta i Pink Floyd non c'entrano: mi riferisco a questo blog."
 tags:
     - blog
-header:
-  image_fullwidth: "panorama-pana.jpg"
-
 image:
-    thumb: coming-back-to-life_thumb.jpg
+  teaser: teaser/coming-back-to-life.jpg
 ---
 Mi è tornata un pochino di voglia di metterci mano e sto recuperando un po' per volta i vecchi post che ritengo possano essere, per me e/o per voi, interessanti.
 
