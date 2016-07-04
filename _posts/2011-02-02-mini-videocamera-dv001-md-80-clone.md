@@ -1,9 +1,8 @@
 ---
 layout: article
 title: "Mini videocamera DV001, MD-80 clone"
-
 categories: 
-  - Tech
+  - tech
 tags: 
   - DV001
   - "MD-80"
@@ -11,7 +10,7 @@ tags:
 
 excerpt: "Mini recensione della microcamera DV001, clone migliorato della MD-80"
 image: 
-  thumb: "microcamera-dv001_thumb.jpg"
+  teaser: teaser/dv0001-minidv-camera.jpg
 ---
 
 Tempo fa cercavo una piccola videocamera per fare riprese video durante qualche giro in macchina e trekking in montagna, non volevo spendere tanto visto che non mi interessava una qualità eccelsa.
