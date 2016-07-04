@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Coming back to life"
-categories: news
+categories: sito
 excerpt: "No, nonostante il titolo per una volta i Pink Floyd non c'entrano: mi riferisco a questo blog."
 tags:
     - blog
