@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Da Fabbrica Curone a Selvapiana
-subheadline: Si riparte!
 
 categories:
   - escursioni
@@ -10,7 +9,7 @@ tags:
   - Appennino ligure
   - Via del mare
   - val Curone
-teaser: "Dopo un lungo stop dalle escursioni, rieccomi con gli scarponi ai piedi. Si va in Appennino: da Fabbrica Curone (Alessandria), a Selvapiana."
+excerpt: "Dopo un lungo stop dalle escursioni, rieccomi con gli scarponi ai piedi. Si va in Appennino: da Fabbrica Curone (Alessandria), a Selvapiana."
 
 header:
   image_fullwidth: "panorama-pana.jpg"

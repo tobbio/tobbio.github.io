@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Ebro e Giarolo
-description: "Una bella giornata -non meteorologicamente parlando- invernale sul crinale tra val Curone e val Borbera."
+excerpt: "Una bella giornata -non meteorologicamente parlando- invernale sul crinale tra val Curone e val Borbera."
 
 categories:
   - escursioni
