@@ -1,6 +1,7 @@
 ---
 categories:
   - News
+comment: 
 comments: true
 date: '2016-01-27'
 excerpt: 'Grandi novità: sono passato da Wordpress a Jekyyl: cosa è cambiato?'
@@ -11,9 +12,10 @@ image:
   caption_url: null
   thumb: jekyll-logo.png
   title: jekyll-logo.png
+info: 
 layout: article
 published: true
-sha: 35f5a193034d5adcd59ec5e38d201a1d4158b2fe
+sha: 397817f1560bbb5366afcff325f33e9abcabd347
 sidebar: right
 slug: esce-wordpress-entra-jekyll
 subheadline: Sito
@@ -23,15 +25,12 @@ tags:
   - Jekyll
   - Wordpress
 title: 'Esce Wordpress, entra Jekyll'
-info: 
-comment: 
 
 ---
 
 
-Da un po' di tempo andavo pensandoci:
-
-> WordPress è un gran bel CMS, molto potente e flessibile, probabilmente eccessivo per queste poche pagine che mi ritrovo, passiamo a qualcosa di più performante e snello, magari anche senza database.
+Da un po' di tempo andavo pensandoci:  
+WordPress è un gran bel CMS, molto potente e flessibile, probabilmente eccessivo per queste poche pagine che mi ritrovo, passiamo a qualcosa di più performante e snello, magari anche senza database.
 
 Così, nel -poco- tempo libero ho iniziato a guardarmi in giro per trovare alternative: ho valutato, più o meno velocemente, l'utilizzo di diversi CMS sviluppati sempre in PHP, ma, appunto, *databaseless*:
 
@@ -52,7 +51,7 @@ Qui però entra in gioco la mia voglia di complicarmi un pochino la vita...
 ### E Jekyll?!
 Così mi è venuto in mente *Jekyll*, il famoso generatore di siti statici scritto in *Ruby* che è alla base di *Github Pages*.
 
-*Ruby*? Oddio, non saprei dove mettere le mani! :/
+> *Ruby*? Oddio, non saprei dove mettere le mani! :/
 Calma, basta editare pochi file di configurazione, post e pagine si trovano su singoli file, scritti semplicemente in **Markdown**.  
 D'accordo, non sarà come usare un editor WYSIWYG, ma una volta imparata la sintassi, è comodissimo.  
 
