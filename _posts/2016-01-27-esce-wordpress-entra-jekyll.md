@@ -13,7 +13,7 @@ image:
   title: jekyll-logo.png
 layout: article
 published: true
-sha: c0acc350c78d605b612ff90f0623642b08e1efca
+sha: 37eb91c74363498178fe01a8afc96b3cb7bbcf17
 sidebar: right
 slug: esce-wordpress-entra-jekyll
 subheadline: Sito
@@ -56,8 +56,9 @@ Così mi è venuto in mente *Jekyll*, il famoso generatore di siti statici scrit
 Calma, basta editare pochi file di configurazione, post e pagine si trovano su singoli file, scritti semplicemente in **Markdown**.  
 D'accordo, non sarà come usare un editor WYSIWYG, ma una volta imparata la sintassi, è comodissimo.  
 
-Infine basta eseguire ```jekyll build``` e voilà, delle belle paginette html pronte a essere caricate sul server.  
->Però aspetta, vuol dire che per usare Jekyll devo installare Ruby sul pc!
+Infine basta eseguire ```jekyll build``` e voilà, delle belle paginette html pronte a essere caricate sul server.
+
+> Però aspetta, vuol dire che per usare Jekyll devo installare Ruby sul pc!
 
 Non necessariamente, perchè ora entra in gioco **Github Pages**: hosting gratuito per pagine statiche (il PHP non è supportato) ma anche... Jekyll installato sui loro server: ergo per aggiornare il nostro blog basterà *pushare* il nostro file .md nella cartella **_posts** e automaticamente nel giro di pochi secondi sarà stato generato e pubblicato.  
 
