@@ -4,7 +4,7 @@ title: "Gelert Solo"
 date:  15-4-2009
 modified: 
 excerpt: "Nuova mini tenda economica superleggera" 
-categories: [materiali escursionismo]
+categories: [equipaggiamento]
 tags:
 image: 
   feature: 
