@@ -8,7 +8,7 @@ categories: [viaggi, fai-da-te]
 tags:
 image: 
   feature: 
-  teaser: 
+  teaser: teaser/clio-camperizzata.jpg
   thumb: 
 share: true
 comments: true
