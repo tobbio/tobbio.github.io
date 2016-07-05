@@ -1,13 +1,13 @@
----
-layout: article
-title: ""
-modified:
-categories: 
-excerpt: ""
-tags: []
-image:
-  feature:
-  teaser:
-  thumb:
+--- 
+layout: article 
+title: "About" 
+date:  
+modified:  
+excerpt: "" 
+image: 
+  feature: 
+  teaser: 
+  thumb: 
+share: false
 comments:
----
+--- 
