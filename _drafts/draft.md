@@ -4,6 +4,8 @@ title: "Clio camperizzata"
 date:  28-4-2011
 modified: 6-7-2016
 excerpt: "Prove rudimentali di autonomia" 
+categories: [viaggi, fai-da-te]
+tags:
 image: 
   feature: 
   teaser: 
