@@ -7,5 +7,3 @@ header:
   
 ---
 **CIAO ZIO**
-
-{% include form.html %}
