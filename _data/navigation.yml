@@ -1,27 +1,32 @@
 # Site navigation links
 
 - title: In breve
-  url: /in-breve/
+  #url: /in-breve/
+  url: /
   excerpt: "Il monte Tobbio in breve"
   image: 
 
 - title: I sentieri
-  url: /sentieri/
+  #url: /sentieri/
+  url: /
   excerpt: "I sentieri per salire al Tobbio"
   image: 
 
 - title: Vi racconto...
-  url: /vi-racconto/
+  #url: /vi-racconto/
+  url: /
   excerpt: "Ascese, emozioni, fotografie"
   image: 
 
 - title: Eventi
-  url: /eventi/
+  #url: /eventi/
+  url: /
   excerpt: "Incontri, feste, ritrovi..."
   image:
 
 - title: Libro di vetta
-  url: /libro-di-vetta/
+  #url: /libro-di-vetta/
+  url: /
   excerpt: "Una sicuramente meno affascinante alternativa alla versione cartacea presente nel bivacco."
   image:       
 
