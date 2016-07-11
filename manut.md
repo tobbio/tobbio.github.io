@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /man
 image:
   feature: panorama-antola.jpg
   credit: Panorama dal m. Antola
