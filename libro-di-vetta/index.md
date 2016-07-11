@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Chi sono
+title: Libro di vetta
 permalink: "/libro-di-vetta/"
 ---
 
