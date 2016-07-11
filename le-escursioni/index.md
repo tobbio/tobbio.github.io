@@ -1,16 +1,15 @@
 ---
 layout: article
 title: Escursioni
-tags: 
+tags:
   - escursioni
   - montagna
   - appennini
 comments: false
 share: false
-header: 
-  
+header:
   image_fullwidth: panorama-pana.jpg
-permalink: /escursioni/
+permalink: /libro-di-vetta/
 published: true
 ---
 
