@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Libro
-permalink: /ziopippo/
+permalink: "/ziopippo/"
 header: 
   image_fullwidth: "panorama-pana.jpg"
   
