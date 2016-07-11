@@ -1,13 +1,28 @@
 # Site navigation links
 
-- title: Chi sono
-  url: /chi-sono/
-  excerpt: "Federico, 33 anni, San Salvatore Monferrato"
-  image: federico.jpg
+- title: In breve
+  url: /in-breve/
+  excerpt: "Il monte Tobbio in breve"
+  image: 
 
-- title: Escursioni
-  url: /escursioni/
-  excerpt: "Le mie escursioni"
-  image: escursioni.jpg
+- title: I sentieri
+  url: /sentieri/
+  excerpt: "I sentieri per salire al Tobbio"
+  image: 
+
+- title: Vi racconto...
+  url: /vi-racconto/
+  excerpt: "Ascese, emozioni, fotografie"
+  image: 
+
+- title: Eventi
+  url: /eventi/
+  excerpt: "Incontri, feste, ritrovi..."
+  image:
+
+- title: Libro di vetta
+  url: /libro-di-vetta/
+  excerpt: "Una sicuramente meno affascinante alternativa alla versione cartacea presente nel bivacco."
+  image:       
 
 #  image: 400x250.gif
