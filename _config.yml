@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Shine on..."
+title: "Monte Tobbio"
 description: ""
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: it_IT
-url: "http://new.shineon.it"
+url: "http://www.tobbio.it"
 feed:
   path: atom.xml
 
