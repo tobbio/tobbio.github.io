@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Chi sono
+title: Libro
+permalink: /libro-di-vetta/
 header: 
   image_fullwidth: "panorama-pana.jpg"
   
