@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Libro
-permalink: /libro-di-vetta/
+permalink: /ziopippo/
 header: 
   image_fullwidth: "panorama-pana.jpg"
   
