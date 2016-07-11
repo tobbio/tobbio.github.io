@@ -1,6 +1,10 @@
 ---
 layout: article
+title: Chi sono
 permalink: "/libro-di-vetta/"
+header: 
+  image_fullwidth: "panorama-pana.jpg"
+  
 ---
 <form action="https://getsimpleform.com/messages?form_api_token=f11a9e6dbe5ef1d546bcc99796912267" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
