@@ -12,22 +12,16 @@
   excerpt: "I sentieri per salire al Tobbio"
   image: 
 
-- title: Vi racconto...
-  #url: /vi-racconto/
+- title: Libro di vetta
+  #url: /libro-di-vetta/
   url: /
-  excerpt: "Ascese, emozioni, fotografie"
+  excerpt: "Ascese, emozioni, fotografie: una -meno affascinante- alternativa alla versione cartacea presente nel bivacco."
   image: 
 
 - title: Eventi
   #url: /eventi/
   url: /
   excerpt: "Incontri, feste, ritrovi..."
-  image:
-
-- title: Libro di vetta
-  #url: /libro-di-vetta/
-  url: /
-  excerpt: "Una sicuramente meno affascinante alternativa alla versione cartacea presente nel bivacco."
-  image:       
+  image:     
 
 #  image: 400x250.gif
