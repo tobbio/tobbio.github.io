@@ -1,11 +1,10 @@
 ---
 layout: article
 permalink: / 
-title: Monte Tobbio
-excerpt: La piramide dell'Oltregiogo
 image:
   feature: panorama-antola.jpg
-  credit: Panorama dal m. Antola
+  credit: Panorama dal m. Antola 
+share: false
 ---
 
 ## Monte Tobbio: la piramide d'Oltregiogo.
