@@ -21,5 +21,6 @@ E questo nitido stagliarsi, sulla direttrice ideale che raccorda il mare alla pi
 
 #### CREDITI:
 
-[1] Tratto e modificato da Wikipedia
-[2] Tratto da 51 vedute del monte Tobbio – Iconografia e storia di una montagn a sacra (versione cache di web.archive.org in quanto la pagina originale non è più accessibile)
+[1] Tratto e modificato da [Wikipedia](http://it.wikipedia.org/wiki/Monte_Tobbio) 
+
+[2] Tratto da [51 vedute del monte Tobbio - Iconografia e storia di una montagna sacra vedute](http://web.archive.org/web/20090504102146/http://www.issbarletti.it/Viandanti/51%20vedute%20del%20monte%20Tobbio.htm) (versione cache di web.archive.org in quanto la pagina originale non è più accessibile)
