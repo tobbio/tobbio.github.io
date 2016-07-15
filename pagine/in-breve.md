@@ -2,6 +2,8 @@
 layout: article
 title: In breve...
 permalink: /in-breve/ 
+share: false 
+comments: false
 ---
 
 Il monte Tobbio (*Tubiu* nel dialetto di Bosio, *Tuggio* in ligure), alto 1092 m. slm, è la montagna posta al centro del **Parco Naturale delle Capanne di Marcarolo**, in provincia di Alessandria.  
