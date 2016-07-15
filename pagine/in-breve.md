@@ -17,8 +17,9 @@ Caratteristica è la passeggiata natalizia in notturna che i vari CAI della prov
 >L’eccezionalità del Tobbio è connessa ad un particolare rapporto tra la sua morfologia e la sua collocazione. 
 La conformazione vagamente piramidale e l’escursione altimetrica tra le pendici e la vetta gli conferiscono un’estesa visibilità, pur in mezzo ad altre formazioni di altitudine pari o addirittura superiore.  
 E questo nitido stagliarsi, sulla direttrice ideale che raccorda il mare alla pianura dell’oltregiogo, lo ha eletto a riferimento geografico, meteorologico e simbolico per eccellenza per le popolazioni di entrambi i versanti dell’appennino. [[2] ](#crediti) 
-
-CREDITI:
 <a id="crediti"></a>
+
+#### CREDITI:
+
 [1] Tratto e modificato da Wikipedia
 [2] Tratto da 51 vedute del monte Tobbio – Iconografia e storia di una montagn a sacra (versione cache di web.archive.org in quanto la pagina originale non è più accessibile)
