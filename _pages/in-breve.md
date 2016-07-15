@@ -1,6 +1,6 @@
 ---
 layout: article
-title: In breve... 
+title: "In breve..."
 permalink: "/in-breve/"
 header: 
   image_fullwidth: "panorama-pana.jpg"
