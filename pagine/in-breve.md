@@ -12,8 +12,13 @@ Dalla sua cima la vista spazia dal golfo di Genova, distante soli 18 km in linea
 
 Durante la Resistenza tutta la zona attorno al monte è stata sede di diverse brigate partigiane e luogo di scontri e battaglie.
 
-Caratteristica è la passeggiata natalizia in notturna che i vari CAI della provincia organizzano ogni anno per la sera del 25 dicembre con partenza dal valico degli Eremiti. [1]
+Caratteristica è la passeggiata natalizia in notturna che i vari CAI della provincia organizzano ogni anno per la sera del 25 dicembre con partenza dal valico degli Eremiti.  [[1] ](#crediti) 
 
 >L’eccezionalità del Tobbio è connessa ad un particolare rapporto tra la sua morfologia e la sua collocazione. 
 La conformazione vagamente piramidale e l’escursione altimetrica tra le pendici e la vetta gli conferiscono un’estesa visibilità, pur in mezzo ad altre formazioni di altitudine pari o addirittura superiore.  
-E questo nitido stagliarsi, sulla direttrice ideale che raccorda il mare alla pianura dell’oltregiogo, lo ha eletto a riferimento geografico, meteorologico e simbolico per eccellenza per le popolazioni di entrambi i versanti dell’appennino. [2] 
+E questo nitido stagliarsi, sulla direttrice ideale che raccorda il mare alla pianura dell’oltregiogo, lo ha eletto a riferimento geografico, meteorologico e simbolico per eccellenza per le popolazioni di entrambi i versanti dell’appennino. [[2] ](#crediti) 
+
+CREDITI:
+<a id="crediti"></a>
+[1] Tratto e modificato da Wikipedia
+[2] Tratto da 51 vedute del monte Tobbio – Iconografia e storia di una montagn a sacra (versione cache di web.archive.org in quanto la pagina originale non è più accessibile)
