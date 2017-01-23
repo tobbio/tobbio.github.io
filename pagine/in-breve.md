@@ -3,7 +3,7 @@ layout: article
 title: In breve...
 permalink: /in-breve/
 ---
-#Monte Tobbio, 1092 m.#
+# Monte Tobbio, 1092 m.#
 
 Il monte Tobbio -*Tubiu nel dialetto di Bosio, Tuggio in ligure*-, è la montagna situata al centro del Parco Naturale delle Capanne di Marcarolo, in provincia di Alessandria.
 
