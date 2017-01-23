@@ -12,7 +12,7 @@ var cdmjjdh = ['i','h','c','n','n','o','l','"','8','m','o','m','8',':','m','2','
 <noscript>Abilitare Javascript per visualizzare l'indirizzo e-mail</noscript>
 
 <div class="tiles">
-{% for post in site.categories.libro-di-vetta%}
+{% for post in site.categories.libro%}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
