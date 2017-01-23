@@ -1,24 +1,26 @@
 ---
-title: "Prima notturna"
-categories: [libro]
+title: Prima notturna
+categories:
+  - libro
 permalink: /libro-di-vetta/prima-notturna/
+published: false
 ---
 
-In previsione di fare qualche giorno in giro per l’appennino, sabato pomeriggio, dopo aver dato uno sguardo alle previsioni del tempo, decido di andare di fare una notturna sul Tobbio, come già in programma da tempo.
+In previsione di fare qualche giorno in giro per l’appennino, sabato pomeriggio, dopo aver dato uno sguardo alle previsioni del tempo, decido di andare a fare una notturna sul Tobbio, come già in programma da tempo.
 Parcheggio al valico degli Eremiti e imbocco il sentiero ormai a sera, poco dopo le sette, con ancora una ventina di minuti di luce.  
 In breve arrivo al passo della Dagliola e da lì proseguo verso la cima, potrei quasi camminare con la
 frontale spenta, c'è una bellissima luna quasi piena.
-A metà strada qualcosa di simile a un latrato squarcia il silenzio: un potente bramito di un daino.
-Dopo l’ultima curva a destra mi compare la chiesetta e noto che il rifugio ha la nestrella
+A metà strada qualcosa di simile a un latrato squarcia il silenzio: un forte bramito di un daino.
+Dopo l’ultima curva a destra mi compare la chiesetta e noto che il rifugio ha la finestrella
 illuminata, il tempo di raggiungerlo ed escono due ragazzi, un breve saluto e inizio a cercare
-un posto adatto alla tenda.
-Non ricordavo che lo spazio utile fosse così poco: qualcosina di anco al rifugio, ma troppo in
-mezzo ai piedi, così scendo lungo il crinalino per una cinquantina di metri dove trovo un po’ di
+un posto adatto alla tenda.  
+Non ricordavo che lo spazio utile fosse così poco: qualcosina di fianco al rifugio, ma troppo in
+mezzo ai piedi, così scendo lungo il crinalino sud per una cinquantina di metri dove trovo un po’ di
 piano, seppure piuttosto esposto al vento e comunque sempre un po’ sassoso.
 Pazienza, altre possibilità non ne vedo: mi fermo e inizio a montare la tenda. Ecco, la tenda: la
 Gelert Solo sembra fatta apposta per quel piccolo spazio disponibile, è decisamente piccola e
 bassa e offre davvero poca resistenza al vento.
-Con tutto pronto passo alla cena e mi preparo un cappuccino caldo, prima di in larmi nel
+Con tutto pronto passo alla cena e mi preparo un cappuccino caldo, prima di infilarmi nel
 sacco a pelo. Prendo sonno abbastanza velocemente e riesco a dormire per tre/quattro ore,
 poi il vento aumenta, sono un po’ preoccupato perché è la prima volta che testo questa tenda
 in montagna e temo un po’ per il vento e la mancanza delle falde a terra.
