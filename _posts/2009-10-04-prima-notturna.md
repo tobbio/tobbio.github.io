@@ -15,7 +15,7 @@ Dopo l’ultima curva a destra mi compare la chiesetta e noto che il rifugio ha 
 illuminata, il tempo di raggiungerlo ed escono due ragazzi, un breve saluto e inizio a cercare
 un posto adatto alla tenda.  
 Non ricordavo che lo spazio utile fosse così poco: qualcosina di fianco al rifugio, ma troppo in
-mezzo ai piedi, così scendo lungo il crinalino sud per una cinquantina di metri dove trovo un po’ di
+mezzo ai piedi, così scendo lungo il crinalino sud per qualche decina di metri dove trovo un po’ di
 piano, seppure piuttosto esposto al vento e comunque sempre un po’ sassoso.
 Pazienza, altre possibilità non ne vedo: mi fermo e inizio a montare la tenda. Ecco, la tenda: la
 Gelert Solo sembra fatta apposta per quel piccolo spazio disponibile, è decisamente piccola e
@@ -31,11 +31,11 @@ Lo spazio nella Solo è quello che è ma riesco comunque a vestirmi e metter via
 senza uscire.
 Esco: sono completamente in mezzo alle nuvole, è ancora abbastanza buio e non vedo manco
 la sagoma della chiesetta.
-Mentre preparo lo zaino smette di piovigginare, così ne appro tto per fare colazione,
+Mentre preparo lo zaino smette di piovigginare, così ne approfitto per fare colazione,
 aspettare che venga luce e iniziare la discesa.
 Scendendo verso gli Eremiti incrocio diversa gente, sono del CAI di Ovada, hanno in
 programma una polentata.
-Considerazioni nali: ero attrezzato discretamente, la notte nonostante le poche ore di
-sonno ho riposato a suf cienza. In previsione però di giri più lunghi, dovrò sicuramente
+Considerazioni finali: ero attrezzato discretamente, la notte nonostante le poche ore di
+sonno ho riposato a sufficienza. In previsione però di giri più lunghi, dovrò sicuramente
 procurarmi una tenda più grande, dove ci sia spazio per muoversi e per riparare lo zaino, la
 Solo è effettivamente troppo piccolina.
