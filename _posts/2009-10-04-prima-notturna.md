@@ -1,6 +1,7 @@
 ---
 title: "Prima notturna"
 categories: [Libro di vetta]
+permalink: /libro-di-vetta/prima-notturna/
 ---
 
 In previsione di farmi quei giorni in giro per l’appennino di cui ho già accennato, sabato
