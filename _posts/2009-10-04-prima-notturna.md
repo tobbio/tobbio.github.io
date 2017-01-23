@@ -1,6 +1,6 @@
 ---
 title: "Prima notturna"
-categories: [Libro di vetta]
+categories: [libro]
 permalink: /libro-di-vetta/prima-notturna/
 ---
 
