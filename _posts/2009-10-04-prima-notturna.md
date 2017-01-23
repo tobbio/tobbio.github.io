@@ -4,13 +4,11 @@ categories: [libro]
 permalink: /libro-di-vetta/prima-notturna/
 ---
 
-In previsione di farmi quei giorni in giro per l’appennino di cui ho già accennato, sabato
-pomeriggio, dopo aver dato uno sguardo alle previsioni del tempo, decido di andare di farmi
-una notturna sul Tobbio, come già in programma da tempo.
-Imbocco il sentiero poco dopo le sette, con ancora una ventina di minuti di luce.
-In breve arrivo al passo Dagliola e da lì proseguo verso la cima, potrei quasi camminare con la
-frontale spenta, grazie a una luminosissima luna.
-A metà strada qualcosa di simile a un latrato squarcia il silenzio: un cervo?!
+In previsione di fare qualche giorno in giro per l’appennino, sabato pomeriggio, dopo aver dato uno sguardo alle previsioni del tempo, decido di andare di fare una notturna sul Tobbio, come già in programma da tempo.
+Parcheggio al valico degli Eremiti e imbocco il sentiero ormai a sera, poco dopo le sette, con ancora una ventina di minuti di luce.  
+In breve arrivo al passo della Dagliola e da lì proseguo verso la cima, potrei quasi camminare con la
+frontale spenta, c'è una bellissima luna quasi piena.
+A metà strada qualcosa di simile a un latrato squarcia il silenzio: un potente bramito di un daino.
 Dopo l’ultima curva a destra mi compare la chiesetta e noto che il rifugio ha la nestrella
 illuminata, il tempo di raggiungerlo ed escono due ragazzi, un breve saluto e inizio a cercare
 un posto adatto alla tenda.
