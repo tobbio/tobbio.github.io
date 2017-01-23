@@ -1,7 +1,7 @@
 ---
 layout: article
 title: In breve...
-
+permalink: /breve/
 ---
 #Monte Tobbio, 1092 m.#
 
