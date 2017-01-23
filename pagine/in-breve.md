@@ -25,5 +25,5 @@ E questo nitido stagliarsi, sulla direttrice ideale che raccorda il mare alla pi
 eletto a riferimento geografico, meteorologico e simbolico per eccellenza per le popolazioni di entrambi i versanti dell’appennino. [[2] ](#crediti)
 
 <a id="crediti"></a>
-###[1] Tratto e modicato da [Wikipedia](http://it.wikipedia.org/wiki/Monte_Tobbio).  
-###[2] [51 vedute del monte Tobbio - Iconografia e storia di una montagna sacra](http://web.archive.org/web/20090504102146/http://www.issbarletti.it/Viandanti/51%20vedute%20del%20monte%20Tobbio.htm)
+### [1] Tratto e modicato da [Wikipedia](http://it.wikipedia.org/wiki/Monte_Tobbio).  
+### [2] [51 vedute del monte Tobbio - Iconografia e storia di una montagna sacra](http://web.archive.org/web/20090504102146/http://www.issbarletti.it/Viandanti/51%20vedute%20del%20monte%20Tobbio.htm)
