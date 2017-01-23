@@ -5,7 +5,7 @@ description: "La piramide d'Oltregiogo"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: it_IT
-url: "http://www.tobbio.it"
+url: "https://www.tobbio.it"
 feed:
   path: atom.xml
 
@@ -27,7 +27,7 @@ gems:
 # Site owner
 owner:
   name: "Federico Bellinvia"
-  web: "http://new.shineon.it"
+  web: "https://www.shineon.it"
   twitter: "shineon82"
   bio: "Non ho mai pensato nella vita che per procedere bisogna necessariamente andare in linea retta. (M. Paolini)"
   avatar: "bio-foto.jpg" # 160x160 px image for author byline
@@ -35,7 +35,7 @@ owner:
     plus: ""
     ad-client: ""
     ad-slot: 
-  disqus-shortname: shineon-it
+  disqus-shortname: 
 
 
 include:
